@@ -1,4 +1,4 @@
-# Nombre del Racatas
+# Nombre del Recetas
 
 Una breve descripción del proyecto y su propósito.
 

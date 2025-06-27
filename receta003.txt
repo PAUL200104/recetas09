@@ -1,0 +1,26 @@
+# Ensalada Mediterránea
+
+Una ensalada fresca y saludable con sabores clásicos del Mediterráneo.
+
+## Ingredientes
+
+- 1 pepino en rodajas
+- 2 tomates en cubos
+- 1/2 cebolla morada en rodajas finas
+- 100 g de queso feta
+- Aceitunas negras al gusto
+- 2 cucharadas de aceite de oliva
+- Jugo de 1 limón
+- Sal y orégano al gusto
+
+## Instrucciones
+
+1. Mezcla el pepino, tomate y cebolla en un tazón.
+2. Agrega el queso feta y las aceitunas.
+3. Rocía con aceite de oliva y jugo de limón.
+4. Sazona con sal y orégano.
+5. Sirve fría.
+
+## Tiempo estimado
+
+15 minutos

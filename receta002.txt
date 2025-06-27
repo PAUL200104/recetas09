@@ -1,0 +1,27 @@
+# Tacos de Pollo
+
+Tacos sabrosos y fáciles de preparar para cualquier ocasión.
+
+## Ingredientes
+
+- 2 pechugas de pollo desmenuzadas
+- 1 cucharada de aceite de oliva
+- 1 cucharadita de comino
+- 1 cucharadita de pimentón dulce
+- Sal y pimienta al gusto
+- 8 tortillas de maíz
+- Pico de gallo (opcional)
+- Guacamole (opcional)
+
+## Instrucciones
+
+1. Cocina el pollo en una sartén con aceite de oliva.
+2. Agrega comino, pimentón, sal y pimienta.
+3. Calienta las tortillas en otra sartén.
+4. Rellena las tortillas con el pollo.
+5. Agrega pico de gallo y guacamole al gusto.
+6. Sirve caliente.
+
+## Tiempo estimado
+
+25 minutos
