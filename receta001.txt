@@ -6,7 +6,7 @@ Una receta cremosa y deliciosa de pasta Alfredo perfecta para cenas rápidas.
 
 - 200 g de pasta (fettuccine o espagueti)
 - 2 cucharadas de mantequilla
-- 1 taza de crema de leche
+- 1 taza de crema de leche 
 - 1 taza de queso parmesano rallado
 - 2 dientes de ajo picados
 - Sal y pimienta al gusto
@@ -24,4 +24,4 @@ Una receta cremosa y deliciosa de pasta Alfredo perfecta para cenas rápidas.
 
 ## Tiempo estimado
 
-20 minutos
+21 minutos
